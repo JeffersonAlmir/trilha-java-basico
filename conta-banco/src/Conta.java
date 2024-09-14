@@ -31,9 +31,7 @@ public class Conta {
 
 
     public void depositar(double valor){
-        if(valor > 0.0){
             this.setSaldo(valor);
-        }
     }
 }
 
