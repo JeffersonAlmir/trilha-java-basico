@@ -1,2 +1,2 @@
-# trilha-java-basico
-Esse é um projeto de Java básico oferecido pela DIO
+# trilha-java
+Esse é um bootcamp de Java oferecido pela DIO
