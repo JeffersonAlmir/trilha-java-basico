@@ -1,2 +1,2 @@
 # trilha-java
-Esse é um bootcamp de Java oferecido pela DIO
+Esses são os desafios do bootcamp de Java oferecido pela DIO
