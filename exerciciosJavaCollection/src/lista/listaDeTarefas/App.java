@@ -1,4 +1,4 @@
-package listaDeTarefas;
+package lista.listaDeTarefas;
 public class App {
     public static void main(String[] args) throws Exception {
         ListaTarefa lista1 = new ListaTarefa();

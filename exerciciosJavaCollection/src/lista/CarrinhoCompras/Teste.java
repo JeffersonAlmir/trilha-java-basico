@@ -1,4 +1,4 @@
-package CarrinhoCompras;
+package lista.CarrinhoCompras;
 
 public class Teste {
     public static void main(String[] args) {
